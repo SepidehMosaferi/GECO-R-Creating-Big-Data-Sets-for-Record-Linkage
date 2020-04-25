@@ -1,0 +1,11 @@
+cate1,count-cate1,cate2,count-cate2
+# The first line in this look-up file is a header line
+# Look-up file for generating a compound attribute: gender / marital status. For details
+# see module generator.py, class GenerateCateCateCompoundAttribute
+#
+Male,49,Never Married,44, \
+Married,67,Widowed,3, \
+Divorced,11
+Female,51,Never Married,39,Married,67, \
+Widowed,11,\
+Divorced,15
