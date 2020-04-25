@@ -121,9 +121,7 @@ assigned to her. Then the DUP variable in the data set determines whether a pers
 Kate here) has been duplicated or not.
 
 DUP =
-
  1 if record duplicated
-
  0 otherwise
 
 To explain the IDs more, we have:
