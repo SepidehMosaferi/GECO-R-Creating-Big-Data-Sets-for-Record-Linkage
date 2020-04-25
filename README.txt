@@ -248,25 +248,7 @@ considered and the results can be compared. We may want to be innovative and con
 thoughts or parameters for conducting the record linkage process. The results could be evaluated
 through unique IDs as they have been provided in the data sets.
 
-
 Note: The GeCo original package has been created by Khoi-Nguyen Tran, Dinusha Vatsalan, and Peter Christen in 2005.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
